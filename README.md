@@ -5,7 +5,7 @@ This project aims to develop a data management system in Django that allows user
 
 Here's how the project will work:
 
-Data Generation: Fake data will be generated using a tool like Mokaro website, creating a dataset with multiple fields representing the attributes of each record.
+Data Generation: Fake data is generated using a tool like Mokaro website, creating a dataset with multiple fields representing the attributes of each record.
 
 Excel Parsing: The system will include a module that can parse Excel files. It will utilize libraries such as pandas or openpyxl to read the data from the spreadsheet and extract the necessary information.
 
